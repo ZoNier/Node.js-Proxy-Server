@@ -1,0 +1,14 @@
+{
+  "name": "Node.js-Proxy-Server",
+  "version": "1.0.0",
+  "description": "This is a simple Node.js proxy server that allows you to proxy requests to a specified target URL while restricting access to specific domains.",
+  "main": "index.js",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ZoNier",
+  "license": "MIT"
+}
